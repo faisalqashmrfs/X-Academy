@@ -9,7 +9,7 @@
 }
 .Subsecribe .Content
 {
-    width: 902px;
+    width: 962px;
     margin: 0 auto;
     border: 2px dashed transparent;
 }
@@ -17,18 +17,15 @@
 {
     margin-top: 152px;
     color: #FFF;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 49px;
+    font-size: 45px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    word-spacing: 8.5px;
 }
 .Subsecribe .Content p
 {
     margin-top: 52px;
     color: #FFF;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
     font-style: normal;
     font-weight: 400;
@@ -62,7 +59,6 @@
     height: 51px;
     border-radius: 20px;
     background: #FF8500;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #FFF;
     font-size: 25px;
     font-style: normal;

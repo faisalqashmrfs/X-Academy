@@ -164,18 +164,14 @@
 {
     width: 426.762px;
     height: 488.026px;
-    background-image: url(./Img/Br/left-front.png);
+    background-image: url(./Img/Br/X/cup.png);
     background-repeat: no-repeat;
     position: absolute;
     top: -100px;
     left: 100px;
     transform: rotate(10deg);
     transition: .7s;
-}
-.CR-bransh-branding .cr-umberback .cr-umberfront:hover
-{
-    transform: rotate(-10deg);
-    transition: .7s;
+    animation: updown 2s infinite linear;
 }
 .CR-bransh-branding .CR-contant .otherone
 {
